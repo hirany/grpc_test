@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"C:/Go/src/github.com/hirany/avocado/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Go/src/github.com/hirany/avocado/vagrant","disabled":false,"__vagrantfile":true}}}
